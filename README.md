@@ -1,2 +1,1 @@
-# Amazon-Ecommerce-Store
-This is an Amazon ecommerce store.
+# Amazon Ecommerce Store
